@@ -2,11 +2,13 @@
 
 This is the frontend of the Blogging Application .
 
+
 ## 🚀 Overview
 
 - This application built using React.js, styled with Bootstrap. 
 - It interacts with a Node.js/Express.js backend (using JWT authentication) and a MongoDB database. 
 - Users can create, edit, delete, and view all blog posts, with secure authentication and a dynamic, user-friendly interface.
+
 
 ## 📑 Features
 
@@ -43,3 +45,5 @@ The following technologies are used in the frontend of this application:
 9. **Context API :** For managing global state (dark/light mode toggle).
 
 
+## 🌐 Deployment
+https://sk-blogging-application.netlify.app/
